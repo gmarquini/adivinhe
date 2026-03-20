@@ -1,4 +1,4 @@
-# Jogo da Forca (Adivinhe)
+# Jogo de adivinhação
 
 Aplicativo simples de adivinhação de palavras desenvolvido com React + TypeScript + Vite. É um jogo estilo forca em que o usuário tenta acertar letras de uma palavra oculta, recebendo dica e limite de tentativas.
 
